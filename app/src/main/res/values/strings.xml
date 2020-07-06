@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">普通的签到</string>
+    <string name="title_home">主页</string>
+    <string name="title_dashboard">群组</string>
+    <string name="title_notifications">通知</string>
+    <string name="person">我的</string>
+    <string name="title_me">我的</string>
+    <string name="me_default_username">不知者来此</string>
+    <string name="relogin">重新登录</string>
+    <string name="login_forget_hint">忘记密码？</string>
+    <string name="login_code_hint">验证码</string>
+    <string name="login_register_hint">注册</string>
+    <string name="login">登录</string>
+    <string name="hint_password">密码</string>
+    <string name="login_input_username_hint">用户名</string>
+    <string name="login_hold_hint">自动登录</string>
+    <string name="title_activity_socket_test">SocketTestActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="prompt_user">Username</string>
+    <string name="sec_hint">输入群号查找</string>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:theme="@style/basicText">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/Menu_course_add"
+            android:icon="@drawable/ic_notifications_black_24dp"
+            android:title="签到通知"
+            app:itemTextColor="@color/textColorPrimaryDark"/>
+        <item
+            android:id="@+id/Menu_course_search"
+            android:icon="@drawable/ic_person_black_24dp"
+            android:title="个人设置"
+            app:itemTextColor="@color/textColorPrimaryDark"/>
+        <item
+            android:id="@+id/Menu_empty_classroom"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="主页"
+            app:itemTextColor="@color/textColorPrimaryDark"/>
+        <item
+            android:id="@+id/Menu_main_Login"
+            android:icon="@drawable/ic_relog"
+            android:title="@string/relogin"
+            app:itemTextColor="@color/textColorPrimaryDark"/>
+    </group>
+</menu>
